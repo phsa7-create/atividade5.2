@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+
 int main(void) {
     int v[4] = {10, 20, 30, 40};
     double d[4] = {1.5, 2.5, 3.5, 4.5};
